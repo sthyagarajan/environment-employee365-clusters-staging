@@ -7,6 +7,8 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.build.cd.jenkins-x.io
   version: 2.3.58
+  promote-employee365-portal-springboot-0.0.3
 - name: employee365-springboot
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
+
